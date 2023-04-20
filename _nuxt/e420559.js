@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{422:function(o,e,n){"use strict";n.r(e);var c=n(84),t=n.n(c).a.create({baseURL:"https://api-neiva.losolivos.co/",headers:{"Access-Control-Allow-Origin":"*"}});e.default=t}}]);

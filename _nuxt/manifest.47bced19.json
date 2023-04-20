@@ -1,0 +1,9 @@
+{
+  "name": "los_olivos_neiva",
+  "short_name": "los_olivos_neiva",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "es"
+}
